@@ -1,0 +1,3 @@
+def greet_sato_and_takahashi():
+    print("こんにちは、佐藤君。")
+    print("こんにちは、高橋さん。")
